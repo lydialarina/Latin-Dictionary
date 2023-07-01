@@ -1,4 +1,4 @@
-# Latin Dictionary
+# Simple Dictionary
 ![](Pictures/Rome_splendor.jpg)
 
 *The Consummation* by Thomas Cole, 1836
